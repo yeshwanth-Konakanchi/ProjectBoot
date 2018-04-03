@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;HelpDeskService/src/main/java/com/crimindz/bcjMay2017/helpDeskService/TicketController.java&apos; to &apos;TicketService.java&apos;" description="Rename resource &apos;TicketController.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/com/crimindz/bcjMay2017/helpDeskService/TicketController.java" name="TicketService.java" stamp="1505356259339" updateReferences="true"/>
+</session>

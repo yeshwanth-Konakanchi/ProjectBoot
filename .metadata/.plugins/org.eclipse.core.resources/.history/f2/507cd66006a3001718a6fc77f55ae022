@@ -1,0 +1,25 @@
+package sample;
+
+import java.util.Scanner;
+
+public class StringReverse {
+
+	public static void main(String[] args)
+	{
+
+	Scanner sc =new Scanner(System.in);
+	System.out.println("enter string: ");
+	String x=sc.nextLine();
+	String[] y=x.split(" ");
+	int count=y.length;
+	System.out.println(count);
+
+	int n=Integer.parseInt(y[count-1]);
+	StringBuffer t= new StringBuffer(y[n]);
+	
+	y[n]=t.reverse().toString();
+	
+	System.out.println(y);
+	
+	}
+}

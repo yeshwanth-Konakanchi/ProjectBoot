@@ -1,0 +1,37 @@
+package com.crmindz.bcjMay2017.codingQue;
+
+
+import java.util.regex.Pattern;
+
+public class Regex {
+
+	static void testForValidVin() {
+		   String vin = "1aosossoffdfdsfff";
+		   System.out.println(Pattern.matches("^([a-zA-Z0-9]+[^!@#$%]+){17}$", vin));
+		   System.out.println(Pattern.matches("[a-zA-Z0-9]{17}", vin));
+	        
+	        if(vin.length()==17){
+	            if("0000000000000TEST".equals(vin) && "TRAINING123456789".equals(vin) && "NOTAVIN0987654321".equals(vin)){
+	                System.out.println("INVALID");
+	            }
+	            
+	            else if(Pattern.matches("[a-zA-Z0-9[^#$%&]]{17}", vin)){
+	                System.out.println("VALID");
+	            }
+	            
+	            else{
+	                System.out.println("INVALID");
+	            }
+	        }
+	        
+	        else{
+	        	System.out.println("INVALID");
+	        }
+
+	}
+	
+	public static void main(String[] args) {
+		
+		Regex.testForValidVin();
+	}
+}

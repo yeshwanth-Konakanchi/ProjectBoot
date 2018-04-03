@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [31/Oct/2017:23:53:44 -0500] "GET /Spring4MVCAngularJSExample/ HTTP/1.1" 200 6255
+0:0:0:0:0:0:0:1 - - [31/Oct/2017:23:53:49 -0500] "GET /Spring4MVCAngularJSExample/static/js/app.js;jsessionid=B287E4EA94AC00D52D3A0459A6325BAE HTTP/1.1" 200 55
+0:0:0:0:0:0:0:1 - - [31/Oct/2017:23:53:49 -0500] "GET /Spring4MVCAngularJSExample/static/js/controller/user_controller.js;jsessionid=B287E4EA94AC00D52D3A0459A6325BAE HTTP/1.1" 200 2476
+0:0:0:0:0:0:0:1 - - [31/Oct/2017:23:53:49 -0500] "GET /Spring4MVCAngularJSExample/static/css/app.css;jsessionid=B287E4EA94AC00D52D3A0459A6325BAE HTTP/1.1" 200 622
+0:0:0:0:0:0:0:1 - - [31/Oct/2017:23:53:49 -0500] "GET /Spring4MVCAngularJSExample/static/js/service/user_service.js;jsessionid=B287E4EA94AC00D52D3A0459A6325BAE HTTP/1.1" 200 2100
+0:0:0:0:0:0:0:1 - - [31/Oct/2017:23:53:51 -0500] "GET /Spring4MVCAngularJSExample/user/ HTTP/1.1" 200 478
+0:0:0:0:0:0:0:1 - - [31/Oct/2017:23:53:55 -0500] "GET /favicon.ico HTTP/1.1" 404 1081

@@ -1,0 +1,28 @@
+package practice;
+
+import java.io.IOException;
+
+public class TestThrow1 {
+	void m() throws IOException {
+		throw new IOException();
+	}
+
+	void n() throws IOException {
+		m();
+	}
+
+	void p()  {
+		try{
+			n();
+			System.out.println("Hello");
+	} catch (Exception e) {
+		System.out.println("exception handeled");
+	}
+	}
+
+	public static void main(String args[])throws IOException {
+		TestThrow1 obj = new TestThrow1();
+		obj.p();
+		System.out.println("normal flow");
+	}
+}

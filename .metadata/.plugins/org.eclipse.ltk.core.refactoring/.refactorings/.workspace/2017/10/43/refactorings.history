@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;SpringMvcAngularJs&apos; to &apos;Spring4MVCAngularJSExample&apos;" description="Rename resource &apos;SpringMvcAngularJs&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/SpringMvcAngularJs" name="Spring4MVCAngularJSExample" stamp="1509052460208" updateReferences="true"/>
+</session>

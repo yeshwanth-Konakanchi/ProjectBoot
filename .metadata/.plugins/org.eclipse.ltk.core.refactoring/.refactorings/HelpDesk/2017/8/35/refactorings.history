@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;HelpDesk/src/main/webapp/WEB-INF/views/WelcomeUser.jsp&apos; to &apos;welcomeUser.jsp&apos;" description="Rename resource &apos;WelcomeUser.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/WEB-INF/views/WelcomeUser.jsp" name="welcomeUser.jsp" stamp="1503800637616" updateReferences="true"/>
+</session>

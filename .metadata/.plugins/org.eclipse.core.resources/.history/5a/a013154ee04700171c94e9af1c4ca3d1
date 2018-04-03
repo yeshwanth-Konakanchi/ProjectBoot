@@ -1,0 +1,22 @@
+package Intro;
+
+class Bike{
+public String name;
+
+   void run(){System.out.println("running");}
+ }
+ class Splendar extends Bike{
+	 public int model;
+   void run(){System.out.println("running safely with 60km");}
+ 
+   public static void main(String args[]){
+	   Splendar b = new Splendar();//upcasting
+b.name="splendar";
+b.model= 8889;
+     b.run();
+System.out.println(b.name);
+System.out.println(b.model);
+
+
+   }
+ }

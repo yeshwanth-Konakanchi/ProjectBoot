@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-setting="1" hostname="localhost" id="Oracle WebLogic Server 12c R2 (12.2.1.2) [base_domain]" name="Oracle WebLogic Server 12c R2 (12.2.1.2) [base_domain]" runtime-id="Oracle WebLogic Server 12c R2 (12.2.1.2)" server-type="weblogic.server" server-type-id="weblogic.server" start-timeout="480" stop-timeout="240" timestamp="5" weblogic_domain_path="C:\Oracle\Middleware\Oracle_Home\user_projects\domains\base_domain" weblogic_host_name="localhost" weblogic_is_remote="false" weblogic_port="7001" weblogic_use_bootprop="true" weblogic_use_config_xml="true">
+    <list key="modules" value0="Spring4MVCAngularJSExample::org.eclipse.jst.jee.server:Spring4MVCAngularJSExample::jst.web::3.1"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v8.5 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v8.5 Server at localhost" name="Tomcat v8.5 Server at localhost" runtime-id="Apache Tomcat v8.5" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="20">
+    <list key="modules" value0="HelpDeskWebService::org.eclipse.jst.jee.server:HelpDeskWebService::jst.web::2.5"/>
+  </server>
+</servers>

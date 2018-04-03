@@ -1,0 +1,51 @@
+package com.crmindz.bcjMay2017.codingQue;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.LinkedHashSet;
+import java.util.Set;
+
+public class CarString {
+	
+	public static void doThings(){
+		String inputString = "Ford,Audi,Tesla,Tesla,Honda,GM,GM,Lincoln,Mazda";
+        String[] arrayInput = inputString.split(",");
+        
+        for(int i=0; i<arrayInput.length; i++){
+            System.out.println(arrayInput[i]);
+        }
+        
+        System.out.println();
+        
+        Arrays.sort(arrayInput);
+        
+        for(int i=0; i<arrayInput.length; i++){
+            
+            System.out.println(arrayInput[i]);
+        }
+        
+         System.out.println();
+        
+        ArrayList<String> sortedCarList=new ArrayList<String>(Arrays.asList(arrayInput));
+        
+        Set<String> noDuplicateCarList=new LinkedHashSet<String>(sortedCarList);
+        
+        for(String output:noDuplicateCarList){
+            System.out.println(output);
+        }
+        
+         System.out.println();
+        
+        for(String output:noDuplicateCarList){
+            
+            System.out.println(output.length());
+        }
+
+		
+	}
+	
+	public static void main(String[] args) {
+		doThings();
+	}
+
+}

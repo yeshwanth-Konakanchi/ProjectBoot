@@ -1,0 +1,5 @@
+package com.crmindz.helpdesk.controller;
+
+public class TicketManagementController {
+
+}

@@ -1,0 +1,233 @@
+
+Jul 31, 2017 22:32:11.47 NEW SESSION
+Jul 31, 2017 22:32:11.47 [6956:6952:0731/223211.204:ERROR:configuration_policy_handler_list.cc(92)] Unknown policy: NTPContentSuggestionsEnabled
+Aug 01, 2017 03:57:24.93 [6956:6284:0801/035724.923:ERROR:socket_stream.cc(210)] Closing stream with result -101
+Aug 01, 2017 03:57:25.01 [6956:6284:0801/035725.012:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -105
+Aug 01, 2017 03:57:25.23 [6956:6952:0801/035725.236:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 01, 2017 03:57:25.32 [6956:8644:0801/035725.322:ERROR:get_updates_processor.cc(244)] PostClientToServerMessage() failed during GetUpdates
+Aug 01, 2017 03:57:26.24 [6956:8644:0801/035726.247:ERROR:get_updates_processor.cc(244)] PostClientToServerMessage() failed during GetUpdates
+Aug 01, 2017 03:57:27.22 [6956:8644:0801/035727.222:ERROR:get_updates_processor.cc(244)] PostClientToServerMessage() failed during GetUpdates
+Aug 01, 2017 03:57:28.24 [6956:8644:0801/035728.241:ERROR:get_updates_processor.cc(244)] PostClientToServerMessage() failed during GetUpdates
+Aug 01, 2017 03:57:30.55 [6956:8644:0801/035730.553:ERROR:get_updates_processor.cc(244)] PostClientToServerMessage() failed during GetUpdates
+Aug 01, 2017 03:57:31.55 [6956:8644:0801/035731.554:ERROR:get_updates_processor.cc(244)] PostClientToServerMessage() failed during GetUpdates
+Aug 01, 2017 08:09:18.56 [6956:6284:0801/080918.560:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -105
+Aug 01, 2017 08:09:19.26 [6956:6952:0801/080918.855:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 01, 2017 08:09:19.26 [6956:8644:0801/080918.860:ERROR:get_updates_processor.cc(244)] PostClientToServerMessage() failed during GetUpdates
+Aug 01, 2017 08:09:19.84 [6956:8644:0801/080919.848:ERROR:get_updates_processor.cc(244)] PostClientToServerMessage() failed during GetUpdates
+Aug 01, 2017 08:09:24.27 [6956:8644:0801/080924.275:ERROR:get_updates_processor.cc(244)] PostClientToServerMessage() failed during GetUpdates
+Aug 01, 2017 08:09:24.27 [6956:6284:0801/080924.275:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 01, 2017 09:41:24.32 [6956:6952:0801/094124.326:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 01, 2017 09:41:26.27 [6956:6284:0801/094126.274:ERROR:socket_stream.cc(210)] Closing stream with result -101
+Aug 01, 2017 09:41:26.45 [6956:6284:0801/094126.454:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -105
+Aug 01, 2017 09:41:27.88 [6956:6284:0801/094127.880:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2017 09:41:29.94 [6956:6284:0801/094129.943:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -106
+Aug 01, 2017 09:41:49.41 [6956:6952:0801/094149.416:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 01, 2017 09:42:09.04 [6956:8644:0801/094209.040:ERROR:get_updates_processor.cc(244)] PostClientToServerMessage() failed during GetUpdates
+Aug 01, 2017 09:42:16.50 [6956:6284:0801/094216.501:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 01, 2017 09:42:16.50 [6956:8644:0801/094216.503:ERROR:get_updates_processor.cc(244)] PostClientToServerMessage() failed during GetUpdates
+Aug 01, 2017 09:42:41.87 [6956:6952:0801/094241.871:ERROR:media_internals.cc(103)] Cannot get RenderProcessHost
+Aug 01, 2017 09:42:41.87 [6956:6952:0801/094241.871:ERROR:media_internals.cc(103)] Cannot get RenderProcessHost
+Aug 01, 2017 09:42:41.87 [6956:6952:0801/094241.871:ERROR:media_internals.cc(103)] Cannot get RenderProcessHost
+Aug 01, 2017 09:50:57.15 [6956:8644:0801/095057.152:ERROR:get_updates_processor.cc(244)] PostClientToServerMessage() failed during GetUpdates
+Aug 01, 2017 14:10:12.99 [6956:6284:0801/141012.993:ERROR:socket_stream.cc(210)] Closing stream with result -101
+Aug 01, 2017 14:10:13.35 [6956:6952:0801/141013.001:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 01, 2017 14:10:13.35 [6956:6284:0801/141013.003:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 01, 2017 14:10:13.35 [6956:6284:0801/141013.003:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Aug 01, 2017 14:10:13.35 [6956:8644:0801/141013.004:ERROR:get_updates_processor.cc(244)] PostClientToServerMessage() failed during GetUpdates
+Aug 01, 2017 14:10:13.35 [6956:8644:0801/141013.006:ERROR:get_updates_processor.cc(244)] PostClientToServerMessage() failed during GetUpdates
+Aug 01, 2017 14:10:13.96 [6956:8644:0801/141013.960:ERROR:get_updates_processor.cc(244)] PostClientToServerMessage() failed during GetUpdates
+Aug 01, 2017 14:10:14.79 [6956:8644:0801/141014.795:ERROR:get_updates_processor.cc(244)] PostClientToServerMessage() failed during GetUpdates
+Aug 01, 2017 14:10:15.79 [6956:8644:0801/141015.794:ERROR:get_updates_processor.cc(244)] PostClientToServerMessage() failed during GetUpdates
+Aug 01, 2017 14:12:05.50 [6956:6284:0801/141205.501:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Aug 01, 2017 14:12:07.17 [6956:6952:0801/141205.804:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 01, 2017 14:12:07.42 [6956:6284:0801/141206.135:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 01, 2017 14:12:09.27 [6956:6284:0801/141209.279:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 01, 2017 14:13:07.20 [6956:6284:0801/141307.206:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Aug 01, 2017 14:13:45.45 [6956:8644:0801/141345.453:ERROR:get_updates_processor.cc(244)] PostClientToServerMessage() failed during GetUpdates
+Aug 01, 2017 14:15:05.64 [6956:6284:0801/141505.644:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Aug 01, 2017 17:03:37.72 [6956:6284:0801/170337.704:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 01, 2017 17:03:43.80 [6956:6284:0801/170343.797:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 01, 2017 17:04:08.05 [6956:6284:0801/170408.048:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -118
+Aug 01, 2017 17:04:31.81 [6956:6284:0801/170431.796:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 01, 2017 20:33:05.28 [6956:6952:0801/203305.282:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 01, 2017 20:33:07.23 [6956:6284:0801/203305.514:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 01, 2017 20:33:12.79 [6956:6284:0801/203312.793:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 01, 2017 20:33:16.29 [6956:6284:0801/203316.293:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 01, 2017 20:33:19.61 [6956:6284:0801/203319.614:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 01, 2017 20:33:22.77 [6956:6284:0801/203322.773:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 01, 2017 20:33:40.27 [6956:6284:0801/203340.277:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 01, 2017 20:33:42.79 [6956:6284:0801/203342.793:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 01, 2017 21:43:25.81 [6956:6284:0801/214325.810:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 01, 2017 23:15:42.51 [6956:6284:0801/231542.482:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 01, 2017 23:15:45.53 [6956:6284:0801/231545.529:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 02, 2017 08:49:46.93 [6956:6284:0802/084946.894:ERROR:socket_stream.cc(210)] Closing stream with result -101
+Aug 02, 2017 09:08:10.77 [6956:6284:0802/090810.776:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -105
+Aug 02, 2017 09:08:14.51 [6956:6284:0802/090814.512:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -106
+Aug 02, 2017 09:08:22.28 [6956:6284:0802/090822.284:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 02, 2017 09:08:25.77 [6956:6284:0802/090825.775:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 02, 2017 09:08:29.77 [6956:6284:0802/090829.776:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 02, 2017 09:35:10.29 [6956:6284:0802/093510.282:ERROR:socket_stream.cc(210)] Closing stream with result -101
+Aug 02, 2017 09:35:18.63 [6956:6284:0802/093518.625:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 02, 2017 09:35:20.67 [6956:6284:0802/093520.662:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -106
+Aug 02, 2017 09:35:25.29 [6956:6284:0802/093525.289:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 02, 2017 09:51:26.47 [6956:6284:0802/095126.469:ERROR:socket_stream.cc(210)] Closing stream with result -101
+Aug 02, 2017 10:13:18.98 [6956:6284:0802/101318.970:ERROR:ssl_client_socket_impl.cc(1054)] handshake failed; returned -1, SSL error code 1, net_error -101
+Aug 02, 2017 10:13:18.99 [6956:6284:0802/101318.972:ERROR:ssl_client_socket_impl.cc(1054)] handshake failed; returned -1, SSL error code 1, net_error -101
+Aug 02, 2017 10:13:19.00 [6956:6284:0802/101318.973:ERROR:ssl_client_socket_impl.cc(1054)] handshake failed; returned -1, SSL error code 1, net_error -101
+Aug 02, 2017 10:13:19.00 [6956:6284:0802/101318.974:ERROR:ssl_client_socket_impl.cc(1054)] handshake failed; returned -1, SSL error code 1, net_error -101
+Aug 02, 2017 10:13:19.01 [6956:6284:0802/101319.015:ERROR:ssl_client_socket_impl.cc(1054)] handshake failed; returned -1, SSL error code 1, net_error -101
+Aug 02, 2017 10:13:19.02 [6956:6284:0802/101319.028:ERROR:ssl_client_socket_impl.cc(1054)] handshake failed; returned -1, SSL error code 1, net_error -101
+Aug 02, 2017 10:13:19.03 [6956:6284:0802/101319.029:ERROR:ssl_client_socket_impl.cc(1054)] handshake failed; returned -1, SSL error code 1, net_error -101
+Aug 02, 2017 10:13:19.03 [6956:6284:0802/101319.029:ERROR:ssl_client_socket_impl.cc(1054)] handshake failed; returned -1, SSL error code 1, net_error -101
+Aug 02, 2017 10:13:19.03 [6956:6284:0802/101319.029:ERROR:ssl_client_socket_impl.cc(1054)] handshake failed; returned -1, SSL error code 1, net_error -101
+Aug 02, 2017 10:13:19.03 [6956:6284:0802/101319.030:ERROR:ssl_client_socket_impl.cc(1054)] handshake failed; returned -1, SSL error code 1, net_error -101
+Aug 02, 2017 10:13:19.03 [6956:6284:0802/101319.031:ERROR:ssl_client_socket_impl.cc(1054)] handshake failed; returned -1, SSL error code 1, net_error -101
+Aug 02, 2017 10:13:19.03 [6956:6284:0802/101319.031:ERROR:ssl_client_socket_impl.cc(1054)] handshake failed; returned -1, SSL error code 1, net_error -101
+Aug 02, 2017 10:13:19.04 [6956:6284:0802/101319.031:ERROR:ssl_client_socket_impl.cc(1054)] handshake failed; returned -1, SSL error code 1, net_error -101
+Aug 02, 2017 10:13:19.04 [6956:6284:0802/101319.042:ERROR:ssl_client_socket_impl.cc(1054)] handshake failed; returned -1, SSL error code 1, net_error -101
+Aug 02, 2017 10:13:19.04 [6956:6284:0802/101319.046:ERROR:ssl_client_socket_impl.cc(1054)] handshake failed; returned -1, SSL error code 1, net_error -101
+Aug 02, 2017 10:13:19.05 [6956:6284:0802/101319.050:ERROR:ssl_client_socket_impl.cc(1054)] handshake failed; returned -1, SSL error code 1, net_error -101
+Aug 02, 2017 10:13:19.06 [6956:6284:0802/101319.059:ERROR:ssl_client_socket_impl.cc(1054)] handshake failed; returned -1, SSL error code 1, net_error -101
+Aug 02, 2017 10:13:19.06 [6956:6284:0802/101319.063:ERROR:ssl_client_socket_impl.cc(1054)] handshake failed; returned -1, SSL error code 1, net_error -101
+Aug 02, 2017 10:13:19.06 [6956:6284:0802/101319.064:ERROR:ssl_client_socket_impl.cc(1054)] handshake failed; returned -1, SSL error code 1, net_error -101
+Aug 02, 2017 10:13:19.06 [6956:6284:0802/101319.065:ERROR:ssl_client_socket_impl.cc(1054)] handshake failed; returned -1, SSL error code 1, net_error -101
+Aug 02, 2017 10:13:19.06 [6956:6284:0802/101319.065:ERROR:ssl_client_socket_impl.cc(1054)] handshake failed; returned -1, SSL error code 1, net_error -101
+Aug 02, 2017 10:13:19.07 [6956:6284:0802/101319.073:ERROR:ssl_client_socket_impl.cc(1054)] handshake failed; returned -1, SSL error code 1, net_error -101
+Aug 02, 2017 13:41:06.79 [6956:6284:0802/134106.791:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 02, 2017 14:37:13.78 [6956:6284:0802/143713.787:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 02, 2017 17:08:27.30 [6956:6952:0802/170827.300:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 02, 2017 17:08:27.94 [6956:6284:0802/170827.947:ERROR:socket_stream.cc(210)] Closing stream with result -101
+Aug 02, 2017 17:08:31.17 [6956:6284:0802/170831.174:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 02, 2017 20:18:00.28 [6956:6952:0802/201800.285:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 02, 2017 20:18:00.67 [6956:8644:0802/201800.678:ERROR:get_updates_processor.cc(244)] PostClientToServerMessage() failed during GetUpdates
+Aug 02, 2017 20:18:01.50 [6956:8644:0802/201801.503:ERROR:get_updates_processor.cc(244)] PostClientToServerMessage() failed during GetUpdates
+Aug 02, 2017 20:18:02.50 [6956:8644:0802/201802.505:ERROR:get_updates_processor.cc(244)] PostClientToServerMessage() failed during GetUpdates
+Aug 02, 2017 20:18:03.52 [6956:6284:0802/201803.524:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -106
+Aug 02, 2017 20:18:10.36 [6956:8644:0802/201810.368:ERROR:get_updates_processor.cc(244)] PostClientToServerMessage() failed during GetUpdates
+Aug 02, 2017 20:18:10.61 [6956:8644:0802/201810.616:ERROR:get_updates_processor.cc(244)] PostClientToServerMessage() failed during GetUpdates
+Aug 02, 2017 20:18:11.59 [6956:8644:0802/201811.592:ERROR:get_updates_processor.cc(244)] PostClientToServerMessage() failed during GetUpdates
+Aug 02, 2017 20:18:13.69 [6956:6284:0802/201813.689:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 02, 2017 20:18:13.69 [6956:8644:0802/201813.691:ERROR:get_updates_processor.cc(244)] PostClientToServerMessage() failed during GetUpdates
+Aug 02, 2017 20:18:13.77 [6956:8644:0802/201813.775:ERROR:get_updates_processor.cc(244)] PostClientToServerMessage() failed during GetUpdates
+Aug 02, 2017 20:18:14.77 [6956:8644:0802/201814.774:ERROR:get_updates_processor.cc(244)] PostClientToServerMessage() failed during GetUpdates
+Aug 02, 2017 23:04:37.74 [6956:6952:0802/230436.998:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 02, 2017 23:04:37.79 [6956:6284:0802/230437.057:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 02, 2017 23:04:37.79 [6956:8644:0802/230437.058:ERROR:get_updates_processor.cc(244)] PostClientToServerMessage() failed during GetUpdates
+Aug 02, 2017 23:04:41.27 [6956:6284:0802/230441.278:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 02, 2017 23:04:41.36 [6956:8644:0802/230441.282:ERROR:get_updates_processor.cc(244)] PostClientToServerMessage() failed during GetUpdates
+Aug 02, 2017 23:04:52.78 [6956:6284:0802/230452.780:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 03, 2017 06:49:23.54 [6956:6952:0803/064923.531:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 03, 2017 06:49:24.07 [6956:6284:0803/064924.074:ERROR:socket_stream.cc(210)] Closing stream with result -101
+Aug 03, 2017 06:49:24.07 [6956:6284:0803/064924.078:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -105
+Aug 03, 2017 06:49:28.93 [6956:6284:0803/064928.930:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 03, 2017 08:43:30.87 [6956:6284:0803/084330.869:ERROR:socket_stream.cc(210)] Closing stream with result -101
+Aug 03, 2017 08:43:31.93 [6956:6284:0803/084330.874:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -105
+Aug 03, 2017 08:43:31.93 [6956:6952:0803/084331.038:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 03, 2017 08:43:36.36 [6956:6284:0803/084336.359:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 03, 2017 08:43:36.37 [6956:8644:0803/084336.371:ERROR:get_updates_processor.cc(244)] PostClientToServerMessage() failed during GetUpdates
+Aug 03, 2017 08:49:50.39 [6956:6284:0803/084950.398:ERROR:socket_stream.cc(210)] Closing stream with result -101
+Aug 03, 2017 08:49:54.30 [6956:6284:0803/084954.307:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 03, 2017 09:11:42.58 [6956:6284:0803/091142.581:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 03, 2017 09:11:46.27 [6956:6284:0803/091146.274:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 03, 2017 09:11:55.29 [6956:6284:0803/091155.296:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 03, 2017 09:30:19.85 [6956:6952:0803/093019.856:ERROR:media_internals.cc(103)] Cannot get RenderProcessHost
+Aug 03, 2017 09:30:19.87 [6956:6952:0803/093019.856:ERROR:media_internals.cc(103)] Cannot get RenderProcessHost
+Aug 03, 2017 09:30:19.88 [6956:6952:0803/093019.856:ERROR:media_internals.cc(103)] Cannot get RenderProcessHost
+Aug 03, 2017 11:41:21.80 [6956:6284:0803/114121.799:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 03, 2017 11:41:51.73 [6956:6952:0803/114151.735:ERROR:media_internals.cc(103)] Cannot get RenderProcessHost
+Aug 03, 2017 11:41:51.73 [6956:6952:0803/114151.735:ERROR:media_internals.cc(103)] Cannot get RenderProcessHost
+Aug 03, 2017 11:41:51.73 [6956:6952:0803/114151.735:ERROR:media_internals.cc(103)] Cannot get RenderProcessHost
+Aug 03, 2017 15:00:13.56 [6956:6284:0803/150013.562:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Aug 03, 2017 15:00:14.21 [6956:6952:0803/150014.219:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 03, 2017 15:00:17.25 [6956:8644:0803/150017.252:ERROR:get_updates_processor.cc(244)] PostClientToServerMessage() failed during GetUpdates
+Aug 03, 2017 15:00:18.07 [6956:6284:0803/150018.069:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -106
+Aug 03, 2017 15:00:25.42 [6956:6284:0803/150025.424:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Aug 05, 2017 01:27:19.49 [6956:6952:0803/150025.424:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 05, 2017 01:27:20.14 [6956:6284:0805/012717.513:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+Aug 05, 2017 01:27:20.14 [6956:6952:0805/012717.897:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 05, 2017 01:27:20.14 [6956:6284:0805/012717.930:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 05, 2017 01:27:20.14 [6956:6952:0805/012717.945:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Connection failed (-331).
+Aug 05, 2017 01:27:22.51 [6956:8644:0805/012722.373:ERROR:get_updates_processor.cc(244)] PostClientToServerMessage() failed during GetUpdates
+Aug 05, 2017 01:27:25.79 [6956:8644:0805/012725.798:ERROR:get_updates_processor.cc(244)] PostClientToServerMessage() failed during GetUpdates
+Aug 05, 2017 01:27:31.87 [6956:6284:0805/012731.874:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 05, 2017 01:27:31.96 [6956:8644:0805/012731.875:ERROR:get_updates_processor.cc(244)] PostClientToServerMessage() failed during GetUpdates
+Aug 05, 2017 01:48:39.81 [6956:6284:0805/014839.798:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 05, 2017 01:48:42.32 [6956:6284:0805/014842.312:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 05, 2017 17:54:38.88 [6956:6952:0805/175438.842:ERROR:media_internals.cc(103)] Cannot get RenderProcessHost
+Aug 06, 2017 12:43:41.22 [6956:6952:0806/124341.218:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 06, 2017 12:43:45.81 [6956:6284:0806/124345.813:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 06, 2017 12:59:16.08 [6956:6952:0806/125916.079:ERROR:media_internals.cc(103)] Cannot get RenderProcessHost
+Aug 07, 2017 08:49:27.73 [6956:6284:0807/084927.686:ERROR:socket_stream.cc(210)] Closing stream with result -101
+Aug 07, 2017 08:49:37.17 [6956:6284:0807/084937.178:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 07, 2017 08:49:39.94 [6956:6284:0807/084939.940:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 07, 2017 08:49:48.06 [6956:6284:0807/084948.065:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 07, 2017 08:49:51.42 [6956:6284:0807/084951.419:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 07, 2017 08:55:03.73 [6956:6284:0807/085503.722:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -106
+Aug 07, 2017 08:55:31.26 [6956:6284:0807/085531.253:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -106
+Aug 07, 2017 08:56:24.09 [6956:6284:0807/085624.084:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -106
+Aug 07, 2017 08:58:07.64 [6956:6284:0807/085807.633:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -106
+Aug 07, 2017 09:00:09.96 [6956:6284:0807/090009.954:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 07, 2017 09:00:13.46 [6956:6284:0807/090013.457:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 07, 2017 09:00:19.67 [6956:6284:0807/090019.662:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 07, 2017 11:55:40.12 [6956:6284:0807/115540.103:ERROR:socket_stream.cc(210)] Closing stream with result -101
+Aug 07, 2017 14:14:02.83 [6956:6284:0807/141402.822:ERROR:socket_stream.cc(210)] Closing stream with result -101
+Aug 07, 2017 14:14:08.83 [6956:6284:0807/141408.826:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -105
+Aug 07, 2017 14:14:43.58 [6956:6284:0807/141443.572:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -105
+Aug 07, 2017 17:06:51.95 [6956:6284:0807/170651.937:ERROR:socket_stream.cc(210)] Closing stream with result -101
+Aug 07, 2017 17:06:53.95 [6956:6284:0807/170653.951:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -106
+Aug 07, 2017 17:06:58.48 [6956:6284:0807/170658.474:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 07, 2017 17:09:42.54 [6956:8644:0807/170942.539:ERROR:get_updates_processor.cc(244)] PostClientToServerMessage() failed during GetUpdates
+Aug 07, 2017 20:07:51.27 [6956:6952:0807/200751.279:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 07, 2017 20:07:56.08 [6956:6284:0807/200756.080:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 07, 2017 20:42:02.93 [6956:6284:0807/204202.917:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 07, 2017 20:42:05.46 [6956:6284:0807/204205.455:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 08, 2017 24:23:57.68 [6956:6284:0808/002357.647:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+Aug 08, 2017 03:13:04.91 [6956:6284:0808/031304.909:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+Aug 08, 2017 03:33:41.32 [6956:6284:0808/033341.321:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+Aug 08, 2017 03:37:14.43 [6956:6284:0808/033714.426:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+Aug 08, 2017 03:38:18.60 [6956:6952:0808/033818.599:ERROR:media_internals.cc(103)] Cannot get RenderProcessHost
+Aug 08, 2017 03:38:18.61 [6956:6952:0808/033818.599:ERROR:media_internals.cc(103)] Cannot get RenderProcessHost
+Aug 08, 2017 03:38:18.62 [6956:6952:0808/033818.599:ERROR:media_internals.cc(103)] Cannot get RenderProcessHost
+Aug 08, 2017 08:52:28.95 [6956:6284:0808/085228.902:ERROR:socket_stream.cc(210)] Closing stream with result -101
+Aug 08, 2017 08:52:31.45 [6956:6284:0808/085231.446:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 08, 2017 08:52:37.64 [6956:6284:0808/085237.648:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 08, 2017 09:39:19.30 [6956:6952:0808/093919.303:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 08, 2017 09:39:20.91 [6956:6284:0808/093919.528:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 08, 2017 09:39:20.91 [6956:8644:0808/093919.529:ERROR:get_updates_processor.cc(244)] PostClientToServerMessage() failed during GetUpdates
+Aug 08, 2017 09:39:25.00 [6956:6284:0808/093925.006:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 08, 2017 10:51:50.79 [6956:6952:0808/105150.786:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 08, 2017 13:40:27.61 [6956:6284:0808/134027.556:ERROR:ssl_client_socket_impl.cc(1054)] handshake failed; returned -1, SSL error code 1, net_error -159
+Aug 08, 2017 13:40:28.06 [6956:6284:0808/134028.048:ERROR:ssl_client_socket_impl.cc(1054)] handshake failed; returned -1, SSL error code 1, net_error -159
+Aug 08, 2017 13:40:33.17 [6956:6284:0808/134033.168:ERROR:ssl_client_socket_impl.cc(1054)] handshake failed; returned -1, SSL error code 1, net_error -159
+Aug 08, 2017 13:47:10.57 [6956:6284:0808/134710.563:ERROR:ssl_client_socket_impl.cc(1054)] handshake failed; returned -1, SSL error code 1, net_error -159
+Aug 08, 2017 13:47:10.73 [6956:6284:0808/134710.730:ERROR:ssl_client_socket_impl.cc(1054)] handshake failed; returned -1, SSL error code 1, net_error -159
+Aug 08, 2017 13:47:15.93 [6956:6284:0808/134715.929:ERROR:ssl_client_socket_impl.cc(1054)] handshake failed; returned -1, SSL error code 1, net_error -159
+Aug 08, 2017 14:12:41.51 [6956:6284:0808/141241.500:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 08, 2017 14:39:34.54 [6956:6284:0808/143934.541:ERROR:socket_stream.cc(210)] Closing stream with result -101
+Aug 08, 2017 17:47:34.72 [6956:6952:0808/174734.716:ERROR:media_internals.cc(103)] Cannot get RenderProcessHost
+Aug 08, 2017 17:49:12.71 [6956:6284:0808/174912.711:ERROR:ssl_client_socket_impl.cc(1054)] handshake failed; returned -1, SSL error code 1, net_error -100
+Aug 08, 2017 17:49:12.72 [6956:6284:0808/174912.714:ERROR:ssl_client_socket_impl.cc(1054)] handshake failed; returned -1, SSL error code 1, net_error -100
+Aug 08, 2017 17:49:22.10 [6956:6284:0808/174922.079:ERROR:socket_stream.cc(210)] Closing stream with result -101
+Aug 08, 2017 17:49:26.12 [6956:6284:0808/174926.105:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 08, 2017 17:50:38.46 [6956:6284:0808/175038.447:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 08, 2017 17:50:38.47 [6956:8644:0808/175038.459:ERROR:get_updates_processor.cc(244)] PostClientToServerMessage() failed during GetUpdates
+Aug 08, 2017 17:58:51.68 [6956:6284:0808/175851.672:ERROR:socket_stream.cc(210)] Closing stream with result -101
+Aug 08, 2017 20:58:35.51 [6956:6952:0808/205835.512:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 08, 2017 20:58:36.44 [6956:6284:0808/205836.448:ERROR:socket_stream.cc(210)] Closing stream with result -101
+Aug 08, 2017 20:58:40.43 [6956:6284:0808/205840.434:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 08, 2017 21:04:15.13 [6956:6284:0808/210415.123:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 08, 2017 21:04:17.18 [6956:6284:0808/210417.172:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -106
+Aug 08, 2017 21:22:34.37 [6956:6284:0808/212234.364:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 08, 2017 21:23:11.98 [6956:6284:0808/212311.974:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 08, 2017 21:23:46.76 [6956:6284:0808/212346.751:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 08, 2017 21:24:13.96 [6956:6284:0808/212413.959:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 08, 2017 21:25:34.61 [6956:6284:0808/212534.598:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 08, 2017 21:25:36.63 [6956:6284:0808/212536.622:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -106
+Aug 08, 2017 21:25:57.56 [6956:6284:0808/212557.542:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 08, 2017 21:26:25.55 [6956:6284:0808/212625.547:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -106
+Aug 08, 2017 21:27:16.75 [6956:6284:0808/212716.747:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -118
+Aug 08, 2017 21:27:35.35 [6956:6284:0808/212735.353:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -106
+Aug 08, 2017 21:28:19.47 [6956:6284:0808/212819.465:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+Aug 08, 2017 23:22:28.37 [6956:6952:0808/232228.367:ERROR:media_internals.cc(103)] Cannot get RenderProcessHost
+Aug 08, 2017 23:22:28.38 [6956:6952:0808/232228.367:ERROR:media_internals.cc(103)] Cannot get RenderProcessHost
+Aug 08, 2017 23:22:28.38 [6956:6952:0808/232228.367:ERROR:media_internals.cc(103)] Cannot get RenderProcessHost

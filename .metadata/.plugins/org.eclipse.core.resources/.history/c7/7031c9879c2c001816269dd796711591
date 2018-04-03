@@ -1,0 +1,19 @@
+package com.crmindz.bcjMay2017.codingQue;
+
+import java.util.List;
+import java.util.Arrays;
+import java.util.stream.Stream;
+
+public class StreamDistinctEx {
+ 
+    public static void main(String a[]) {
+    	
+    	
+    	List list = (List) Arrays.asList(1,2,3,4,4,6);
+    	
+    	
+        Stream.of("bus", "car", "bycle", "bus", "car", "car", "bike")
+                .distinct()
+                .forEach(System.out::println);
+    }
+}

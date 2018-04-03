@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;CoreJava_yk/src/com/crmindz/bcjmay2017/datatypes/arrays/lab2/HighLowAvgRefactor.java&apos;" deleteContents="false" description="Delete resource &apos;CoreJava_yk/src/com/crmindz/bcjmay2017/datatypes/arrays/lab2/HighLowAvgRefactor.java&apos;" element1="/CoreJava_yk/src/com/crmindz/bcjmay2017/datatypes/arrays/lab2/HighLowAvgRefactor.java" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1500870374393"/>
+</session>

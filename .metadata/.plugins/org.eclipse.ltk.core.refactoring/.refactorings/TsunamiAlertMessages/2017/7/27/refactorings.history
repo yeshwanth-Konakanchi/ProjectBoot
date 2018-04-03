@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;TsunamiAlertMessages/src/com/crmindz/bcjmay2017/tsunamialertmessages/util&apos; to &apos;alerts&apos;" description="Rename resource &apos;util&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/com/crmindz/bcjmay2017/tsunamialertmessages/util" name="alerts" stamp="1499318585404" updateReferences="true"/>
+</session>

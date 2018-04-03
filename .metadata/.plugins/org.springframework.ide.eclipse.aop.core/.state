@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="HelpDeskWebService"/>
+<aop-project name="HelpDesk"/>
+<aop-project name="Spring4MVCAngularJSExample"/>
+<aop-project name="SpringBatchExample"/>
+<aop-project name="HelpDeskRsWithJersey"/>
+<aop-project name="SpringBootAngularJsPOC"/>
+</aop-reference-model>

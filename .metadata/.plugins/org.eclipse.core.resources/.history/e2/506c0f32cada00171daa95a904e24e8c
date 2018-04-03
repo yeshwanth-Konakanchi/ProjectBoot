@@ -1,0 +1,12 @@
+package com.crmindz.bcjMay2017.multithreading.testRunStart;
+
+public class Thread2 extends Thread {
+	public void run(){  
+		System.out.println("thread is running...");
+		System.out.println("thread thread"); 
+		System.out.println("thread thread thread"); 
+		System.out.println("thread thread thread thread"); 
+		System.out.println("thread thread thread thread thread"); 
+		System.out.println("thread thread thread thread thread thread"); 
+		}  
+}

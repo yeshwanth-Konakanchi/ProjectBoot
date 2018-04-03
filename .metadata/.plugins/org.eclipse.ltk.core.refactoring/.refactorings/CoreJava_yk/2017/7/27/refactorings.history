@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;CoreJava_yk/src/com/crmindz/bcjmay2017/datatypes/Strings/lab3/EmailIDValidation.java&apos; to &apos;EmailCheck.java&apos;" description="Rename resource &apos;EmailIDValidation.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/com/crmindz/bcjmay2017/datatypes/Strings/lab3/EmailIDValidation.java" name="EmailCheck.java" stamp="1499460893681" updateReferences="true"/>
+</session>

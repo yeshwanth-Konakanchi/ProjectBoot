@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;SpringBootAngularJsPOC/src/main/java/com/example/demo/service&apos; to &apos;controller&apos;" description="Rename resource &apos;service&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/com/example/demo/service" name="controller" stamp="1507016351159" updateReferences="true"/>
+</session>

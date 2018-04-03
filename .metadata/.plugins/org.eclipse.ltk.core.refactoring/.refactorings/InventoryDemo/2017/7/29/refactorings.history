@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.crmindz.bcjmay2017.service.DataLogic&apos; to &apos;DemoService&apos;&#x0D;&#x0A;- Original project: &apos;InventoryDemo&apos;&#x0D;&#x0A;- Original element: &apos;com.crmindz.bcjmay2017.service.DataLogic&apos;&#x0D;&#x0A;- Renamed element: &apos;com.crmindz.bcjmay2017.service.DemoService&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;DataLogic&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.crmindz.bcjmay2017.service{DataLogic.java[DataLogic" matchStrategy="1" name="DemoService" qualified="false" references="true" similarDeclarations="false" stamp="1500481298081" textual="false" version="1.0"/>
+</session>

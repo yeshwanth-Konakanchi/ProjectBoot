@@ -1,0 +1,28 @@
+package com.crmindz.bcjMay2017.codingQue;
+
+
+
+public class FizzBuzz {
+	
+	
+	private static void fizzBuzz() {
+		// TODO Auto-generated method stub
+		final String EMPTY = "";
+        for (int i = 1; i <= 15; i++) {
+            String value = EMPTY;
+            if (i % 3 == 0) value += "Fizz";
+            if (i % 5 == 0) value += "Buzz";
+            if (value == EMPTY) value += i;
+            System.out.println(value);
+        }
+	}
+		
+	public static void main(String[] args){
+		
+		fizzBuzz();
+	}
+	
+	
+	
+
+}

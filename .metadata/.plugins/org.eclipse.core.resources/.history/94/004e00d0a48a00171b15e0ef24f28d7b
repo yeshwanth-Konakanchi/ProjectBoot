@@ -1,0 +1,48 @@
+<%@ page language ="java" contentType ="text/html; charset = ISO-8859-1" pageEncoding="ISO-8859-1"%>
+
+<html>
+<head>
+   <title>Raise Ticket</title>
+   
+   
+   
+</head>
+<body>
+
+<h3 class="well">Raise Ticket</h3>
+
+<form method="POST" action="/HelloWeb/addUser">
+   <table>
+   
+   	<tr>
+         <td>Ticket Category</td>
+         <td>
+            <select id="ticketCategory">
+               <option>Select</option>
+              
+            </select>     	
+         </td>
+      </tr>
+      <tr>
+         <td>Ticket Category</td>
+         <td>
+            <select id="ticketSubCategory">
+              
+            </select>     	
+         </td>
+      </tr>      
+      <tr>
+         <td>Description</td>
+         <td><textarea name="description" rows="10" cols="30"></textarea></td>
+      </tr> 
+      
+       	  
+      <tr>
+         <td colspan="2">
+            <input type="submit" value="Submit"/>
+         </td>
+      </tr>
+   </table>  
+</form>
+</body>
+</html>

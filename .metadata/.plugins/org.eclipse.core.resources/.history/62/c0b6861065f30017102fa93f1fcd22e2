@@ -1,0 +1,10 @@
+package com.crmindz.bcjMay2017.codingQue;
+
+public class StringCharReplace {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

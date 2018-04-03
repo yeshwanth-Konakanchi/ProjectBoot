@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;sample/src/sample/StringReverse.java&apos; to &apos;CommonSlot.java&apos;" description="Rename resource &apos;StringReverse.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/sample/StringReverse.java" name="CommonSlot.java" stamp="1506522995392" updateReferences="true"/>
+</session>

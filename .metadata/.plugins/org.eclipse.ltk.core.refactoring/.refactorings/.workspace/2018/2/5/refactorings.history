@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;InterviewCodingQue/src/com/crmindz/bcjMay2017/CodingQue2/interface/com&apos;" deleteContents="false" description="Delete resource &apos;InterviewCodingQue/src/com/crmindz/bcjMay2017/CodingQue2/interface/com&apos;" element1="/InterviewCodingQue/src/com/crmindz/bcjMay2017/CodingQue2/interface/com" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1517505081358"/>
+</session>

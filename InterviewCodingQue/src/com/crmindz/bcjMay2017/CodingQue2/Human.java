@@ -1,0 +1,6 @@
+package com.crmindz.bcjMay2017.CodingQue2;
+
+public interface Human {
+	
+	public boolean canWalk();
+}

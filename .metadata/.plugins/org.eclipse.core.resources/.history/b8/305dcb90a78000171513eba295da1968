@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+ <body>
+        <img src="https://awsnew.s3-us-west-2.amazonaws.com/source.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20170814T041334Z&X-Amz-SignedHeaders=host&X-Amz-Expires=-39602&X-Amz-Credential=AKIAI5YVPET4XMORIFIQ%2F20170814%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Signature=b1462fc41549e5b9b1851294269a7fa9f411d06abbd073cb18ff47dcb36006bd">
+    </body>
+
+</html>
